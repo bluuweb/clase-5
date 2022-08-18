@@ -6,3 +6,5 @@
 ```html
 <h2>soy un h2</h2>
 ```
+
+## Otra cosa
